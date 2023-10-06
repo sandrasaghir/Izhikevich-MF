@@ -1,7 +1,5 @@
 
-# A mean-field to capture asynchronous irregular dynamics of
-# conductance-based networks of adaptive quadratic
-# integrate-and-fire neuron models
+# A mean-field to capture asynchronous irregular dynamics of conductance-based networks of adaptive quadratic integrate-and-fire neuron models
 
 *Accompanying code for the Alexandersen, Christoffer G., et al. "A mean-field to capture asynchronous irregular dynamics of conductance-based networks of adaptive quadratic integrate-and-fire neuron models." bioRxiv (2023): 2023-06.
 
@@ -39,11 +37,8 @@ Alexandersen, Christoffer G., et al. "A mean-field to capture asynchronous irreg
 Fastest, complete control, requires python et al. already set up.
 
 ```bash
-git clone https://github.com/
-
-git
-cd 
-pip install --upgrade -r requirements.txt
+git clone https://github.com/sandrasaghir/Izhikevich-MF.git
+cd Izhikevich-MF
 jupyter lab
 ```
 
